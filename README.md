@@ -1,7 +1,7 @@
 # Anomaly Detection on BankMarketing Dataset
 This a solution notebook to an assignment question given in a Data Mining graduate course. Each code block is accompanied by relevant analysis wherever required. </br>
 Dataset link: https://github.com/GuansongPang/ADRepository-Anomaly-detection-datasets/blob/main/numerical%20data/DevNet%20datasets/bank-additional-full_normalised.csv </br>
-Class with label 1 are treated as anomalous classes.</br>
+Samples with Class label 1 are treated as anomalous.</br>
 Broadly, the following steps have been performed in this solution notebook:
 <ul>
 
