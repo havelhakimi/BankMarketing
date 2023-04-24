@@ -4,12 +4,12 @@ Dataset link: https://github.com/GuansongPang/ADRepository-Anomaly-detection-dat
 Broadly, the following steps have been performed in this solution notebook:
 <ul>
 <li> Applied different statistical measures and presented them on infograph. </li>
-<ul> Count plot and classwise categorical plot for categorical attributes <li >  <\li>
-<ul> Histogram plot for continuous attribute</ul>
-<li > Pie chart depciting class distribution <\li>
+<li> Count plot and classwise categorical plot for categorical attributes  <\li>
+<li> Histogram plot for continuous attribute</li>
+<li > Pie chart depciting class distribution </li>
 <li > Correlation Analysis <\li>
 </ul>
-<li>Chosing KNN as baseline model and training it on the dataset </li>
+<li>Using KNN as baseline model and training it on the dataset </li>
 <li> Dimensionality Rediction using PCA and retarining the model using reduced dimension </li>
 
   
