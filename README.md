@@ -3,11 +3,13 @@ This a solution notebook to an assignment question given in a Data Mining gradua
 Dataset link: https://github.com/GuansongPang/ADRepository-Anomaly-detection-datasets/blob/main/numerical%20data/DevNet%20datasets/bank-additional-full_normalised.csv </br>
 Broadly, the following steps have been performed in this solution notebook:
 <ul>
+
 <li> Applied different statistical measures and presented them on infograph. </li>
-<li> Count plot and classwise categorical plot for categorical attributes  <\li>
+ <ul>
+<li> Count plot and classwise categorical plot for categorical attributes  </li>
 <li> Histogram plot for continuous attribute</li>
 <li > Pie chart depciting class distribution </li>
-<li > Correlation Analysis <\li>
+<li > Correlation Analysis </li>
 </ul>
 <li>Using KNN as baseline model and training it on the dataset </li>
 <li> Dimensionality Rediction using PCA and retarining the model using reduced dimension </li>
