@@ -4,7 +4,6 @@ Dataset link: https://github.com/GuansongPang/ADRepository-Anomaly-detection-dat
 Samples with Class label 1 are treated as anomalous.</br>
 Broadly, the following steps have been performed in this solution notebook:
 <ul>
-
 <li> Applied different statistical measures and presented them on infograph. </li>
  <ul>
 <li> Count plot and classwise categorical plot for categorical attributes  </li>
@@ -12,18 +11,18 @@ Broadly, the following steps have been performed in this solution notebook:
 <li > Pie chart depciting class distribution </li>
 <li > Correlation Analysis </li>
 </ul>
-<li>Using KNN as baseline model and training it on the dataset </li>
-<li> Dimensionality Reduction using PCA and retraining the model using reduced dimensions </li>
+<li>Using KNN as baseline model and fitting it on the dataset </li>
+<li> Dimensionality Reduction using PCA and retraining the model using reduced dimensions. </li>
 <ul>
-<li> Performed accuracy comparison of baseline model with the new model obatined after retaining various levels of variance (60,70, 80,90,99)% </li>
+<li> Performed accuracy comparison of baseline model with the new model obtained after retaining various levels of variance (60,70, 80,90,99)% </li>
 
 </ul>
 
   
-<li> Clustering using DBSCAN to remove anomalies and retraining the model after removal of anomalies</li> 
+<li> Clustering using DBSCAN to remove anomalies and retraining the model after removal of anomalies.</li> 
 
 <ul>
-<li> Performed accuracy comparison of baseline model with model trained after anomalies removal </li>
+<li> Performed accuracy comparison of baseline model with model trained after anomalies removal. </li>
 
 </ul>
 
@@ -32,7 +31,7 @@ Broadly, the following steps have been performed in this solution notebook:
   
   
 <ul>
-<li> Performed accuracy comparison of baseline model with model trained after anomalies removal </li>
+<li> Performed accuracy comparison of baseline model with model trained after anomalies removal. </li>
 
 </ul>
 
